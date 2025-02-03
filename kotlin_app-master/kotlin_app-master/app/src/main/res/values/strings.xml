@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight_display">Ваша вага: %1$s кг</string>
+
+</resources>
